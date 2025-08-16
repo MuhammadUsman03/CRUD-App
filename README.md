@@ -1,9 +1,31 @@
-# Getting Started with Create React App
+# CRUD Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple CRUD (Create, Read, Update, Delete) application built with React.js and styled using Bootstrap.
+
+## 🚀 Features
+
+Add new records (Create)
+View records (Read)
+Edit existing records (Update)
+Delete records (Delete)
+Responsive UI with Bootstrap
+API Integration
+
+## 🛠️ Technologies Used
+
+React.js (Frontend framework)
+Bootstrap (Styling)
+JavaScript (ES6)
+HTML5 & CSS3
+
+<img width="1919" height="848" alt="image" src="https://github.com/user-attachments/assets/09ddfd08-ef32-4991-b35c-6d8df8fe30f9" />
+
+<img width="1901" height="869" alt="image" src="https://github.com/user-attachments/assets/528fb977-d224-40d5-81e3-5359e2820e1b" />
+
+<img width="1865" height="848" alt="image" src="https://github.com/user-attachments/assets/2d4ee889-245b-4360-9556-ca5c45d2d04b" />
+
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
