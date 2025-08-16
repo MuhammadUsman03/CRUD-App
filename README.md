@@ -24,9 +24,6 @@ HTML5 & CSS3
 
 <img width="1865" height="848" alt="image" src="https://github.com/user-attachments/assets/2d4ee889-245b-4360-9556-ca5c45d2d04b" />
 
-<img width="755" height="733" alt="image" src="https://github.com/user-attachments/assets/6b58437a-104e-4b5c-b9a2-bd6d5f80a84d" />
-
-
 ## Available Scripts
 In the project directory, you can run:
 
